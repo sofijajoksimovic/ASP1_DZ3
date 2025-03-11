@@ -1,4 +1,4 @@
-# ASP1_DZ3: Detonacija Mina (Mine Detonation Game) - Graph Simulation
+# ASP1_DZ3: Algorithms and Data Structures 1: Detonacija Mina (Mine Detonation Game)
 
 ## Overview
 
