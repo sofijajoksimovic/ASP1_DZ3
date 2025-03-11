@@ -1,6 +1,6 @@
 # ASP1_DZ3
-Detonacija Mina (Mine denotation game) Graph Simulation\\
-(Treci domaci zadatak iz ASPa1 - 2023. godine)\\
+Detonacija Mina (Mine denotation game) Graph Simulation
+(Treci domaci zadatak iz ASPa1 - 2023. godine)
 Overview
 This project is a graph-based simulation of mines represented by vertices with circular properties. Each vertex (mine) is characterized by its coordinates (x, y) and radius r. The simulation allows you to add and remove vertices (mines), connect them via edges (directed), and delete edges. The goal is to manage a set of mines, each represented as a node in the graph, and interact with them using a series of operations.
 
